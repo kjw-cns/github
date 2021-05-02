@@ -12,8 +12,6 @@ public class Main {
 
 		System.out.printf("입력번호:");
 		int num = sc.nextInt();
-		
-		
 		System.out.printf("입력된 번호 : %d\n ", num);
 
 		System.out.println("====프로그램끝");
